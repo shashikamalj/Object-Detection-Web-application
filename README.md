@@ -210,9 +210,3 @@ We have created the text files using the LableImg tool as described previously.
 The 'avg_prec' value and the graph we see is for the SSD algorithm with a MobileNet model. Functions have also been implemented for RCNN and YOLO.  
 All the methods and the way to use them can be found in the <em>mAP_Calculator/extract_coods.py</em>
 
-### Contributions  
-Created by:  
-Gautam Pravin Ingle (1277162)  
-Chinmaygopal Voolapalli (1272455)  
-Shashi Kamal Jaiswal(1273250)  
-Shashikant Kumar(1274301)  
