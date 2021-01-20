@@ -1,7 +1,3 @@
-# KWer-ScoUT-2
-
-HIS-Master-Projekt Team 2, SS20
-
 ## Introduction
 
 This is a Python based web application using YOLOv3 model and OpenCV library for object detection.
