@@ -1,0 +1,7 @@
+numpy==1.18.1
+opencv-python
+imutils
+imagezmq
+argparse
+flask
+pandas
